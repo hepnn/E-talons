@@ -10,7 +10,7 @@ There are people already that have deciphered the hex data and there exists an a
 In a way this code is universal for any ticket based on ISO/IEC 14443A protocol, you just have to do the fun of deciphering hex values
 
 ## The technical side
-Read my blog about it here: [hepn.me](https://hepn.me/2023/03/17/etalons-and-its-insides)
+Read my blog about it here: [hepn.me](https://hepn.me/2023/03/17/etalons-and-its-insides) (every function used here is documented there)
 
 - The E-talons uses [Mifare Ultralight](https://www.nxp.com/docs/en/data-sheet/MF0ICU2.pdf) which uses 64 bytes (16*4)
 - The hex data contains these following things:
