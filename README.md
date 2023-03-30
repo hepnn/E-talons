@@ -25,7 +25,7 @@ Read my blog about it here: [hepn.me](https://hepn.me/2023/03/17/etalons-and-its
     - Bus number
     - Whether the ticket has been checked by an inspector
 
-<img align="center" width="614" height="708" src="https://i.imgur.com/wRitqLO.png">
+<img align="center" width="614" height="708" src="https://i.imgur.com/EYeFHXz.png">
 
 ## The App
 
