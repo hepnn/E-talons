@@ -1,11 +1,13 @@
 
-Scanning [E-talons](https://www.rigassatiksme.lv/lv/biletes/e-talonu-veidi/dzeltenais-e-talons/), used by [Rigas satiksme](https://www.rigassatiksme.lv/lv/), processing the hex data. 
+Scanning [E-talons](https://www.rigassatiksme.lv/lv/biletes/e-talonu-veidi/dzeltenais-e-talons/) (E-ticket is a unified electronic ticket for public transport in the city of Riga.), used by [Rigas satiksme](https://www.rigassatiksme.lv/lv/), processing the hex data. 
 
 UI done in Flutter, functions in Kotlin (root/android/app/src/main/kotlin/) using method channels
 
 ## About
 
 There are people already that have deciphered the hex data and there exists an app for this. I did this solely because none of the available apps are open source or with any documentation. Might have wasted my time on this, but hv a look. By the way, there are still two things I couldn't find in the hex data - 1. stop name 2. purchase date of e-talons 
+
+In a way this code is universal for any ticket based on ISO/IEC 14443A protocol, you just have to do the fun of deciphering hex values
 
 ## The technical side
 Read my blog about it here: [hepn.me](https://hepn.me/2023/03/17/etalons-and-its-insides)
